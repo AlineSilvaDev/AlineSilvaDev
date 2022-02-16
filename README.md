@@ -16,7 +16,6 @@ Skills: JS / HTML / CSS / C# / Asp.Net
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlineSilvaDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aline-silva-3666051aa//)  
 
  
-
 <div  style="display: inline-flex">
 <img align="center" height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlineSilvaDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
 <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineSilvaDev&layout=compact&langs_count=8&theme=dark"/>
