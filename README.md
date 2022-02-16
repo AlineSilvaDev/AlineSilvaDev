@@ -4,7 +4,7 @@
 
 💙 Dev | 💙 Dancing forró | 💙 Horror movies
 
-I'm a undergraduate student at PUC-MG, currently at 3º semester. I'm interested specially in IT development areas. In my free time I enjoy taking care of my plants and playing with my cat named Bruno.
+I'm a undergraduate student of Systems analysis and development at PUC-MG, currently at 3º semester. I'm interested specially in IT development areas. In my free time I enjoy taking care of my plants and playing with my cat named Bruno.
 
 Skills: JS / HTML / CSS / C# / Asp.Net 
 
@@ -15,7 +15,7 @@ Skills: JS / HTML / CSS / C# / Asp.Net
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlineSilvaDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aline-silva-3666051aa//)  
 
-[![Top Langs align:center](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineSilvaDev)](https://github.com/anuraghazra/github-readme-stats)
+[<h2 align:center>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineSilvaDev)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlineSilvaDev&show_icons=true)  
 
