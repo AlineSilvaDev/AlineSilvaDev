@@ -17,6 +17,7 @@ Skills: JS / HTML / CSS / C# / Asp.Net
 
  
 
-<img align="center" height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlineSilvaDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-<img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineSilvaDev&layout=compact&langs_count=8&theme=dark"/>
-
+<div  style="display: inline_block">
+<img align="center" height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlineSilvaDev&show_icons=true&theme=darkdefault&include_all_commits=true&count_private=true"/> 
+<img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineSilvaDev&layout=compact&langs_count=8&theme=darkdefault"/>
+</div>
