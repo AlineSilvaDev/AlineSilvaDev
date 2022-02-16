@@ -15,9 +15,12 @@ Skills: JS / HTML / CSS / C# / Asp.Net
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlineSilvaDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aline-silva-3666051aa//)  
 
-[<h2 align:center>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineSilvaDev)](https://github.com/anuraghazra/github-readme-stats)
+[<img align:center>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineSilvaDev)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlineSilvaDev&show_icons=true)  
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlineSilvaDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineSilvaDev&layout=compact&langs_count=8&theme=dracula"/>
 
 
 
