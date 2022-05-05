@@ -6,7 +6,7 @@
 
 I'm a undergraduate student of Systems analysis and development at PUC-MG, currently at 3º semester. I'm interested specially in IT development areas. In my free time I enjoy taking care of my plants and playing with my cat named Bruno.
 
-Skills: JS / HTML / CSS / C# / Asp.Net 
+Skills: JS / HTML / CSS / MySQL / Scrum
 
 - 🔭 I’m currently working on a mobile app using React Native.  
 - 🌱 I’m currently learning Javascript, Nodejs.  
